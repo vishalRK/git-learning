@@ -6,6 +6,6 @@ int main()
 	a= 2;
 	b= 4;
 	int c = a+b;
-	cout<< c;
+	cout<< c; //PRint the sum
 	return 0;
 }
